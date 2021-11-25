@@ -1,5 +1,5 @@
 # vmware-get-snapshots
-###### get total size of VMware snapshots
+###### get list of VMware snapshots and their total size
 
 Particulary usefull if wanted to quickly see if there's any forgoten snapshot that grew out of hand
 
